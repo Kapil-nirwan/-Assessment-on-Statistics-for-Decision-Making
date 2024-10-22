@@ -1,20 +1,41 @@
-# Description
+# Real Estate Data Analysis Project
 
-These problems will test you on your ability to manipulate real world data and answer statistical questions. The data is on real estate prices in Australia. Use this data to test the following Hypothesis: 
-1. For the suburb Altona, it is postulated that a typical property sells for $800,000. Use the data at hand to test this assumption. Is the typical property price really $800,000 or has it increased? Use a significance level of 5%. 
+## Project Overview
+This project is part of the final assessment for the Data Science course. The dataset used in this project contains real estate data from Australia, focusing on property prices, rooms, bathrooms, car parking, and more.
 
-2. For the year 2016, is there any difference in prices of properties sold in the summer months vs winter months? Consider months from October till March as winter months and the rest as summer months. Use a significance level of 5%. 
+The project tests various hypotheses and answers questions using statistical methods, based on the real-world dataset provided.
 
-3. For the suburb Abbotsford, what is the probability that out of 10 properties sold, 3 will not have car parking? Use the column car in the dataset. Round off your answer to 3 decimal places. 
+## Dataset
+The dataset contains property details such as suburb, sale date, price, number of rooms, number of bathrooms, and parking spots, among other features.
 
-4. In the suburb Abbotsford, what are the chances of finding a property with 3 rooms? Round your answer to 3 decimal places. 
+## Project Tasks
 
-5. In the suburb Abbotsford, what are the chances of finding a property with 2 bathrooms? Round your answer to 3 decimal places.
+### 1. Hypothesis Testing - Property Prices in Altona
+- **Hypothesis**: For the suburb Altona, it is postulated that a typical property sells for $800,000.
+- **Task**: Test this hypothesis using the data. Check if the typical property price in Altona is significantly different from $800,000 at a significance level of 5%.
 
-#  Tools/Software:
-Python - numpy, pandas, matplotlib, seaborn, SciPy, Plotly, Scikit-learn
+### 2. Seasonal Price Differences in 2016
+- **Task**: Investigate whether there is a difference in property prices sold during the summer months vs. winter months for the year 2016. Summer is defined as April to September, and winter is defined as October to March.
+- **Significance level**: 5%
 
-# Files to be uploaded in the repository:
-#1. Dataset --> property.csv
+### 3. Probability of No Car Parking in Abbotsford
+- **Task**: For the suburb Abbotsford, calculate the probability that out of 10 properties sold, 3 will not have car parking. Use the column 'Car' in the dataset.
+- **Note**: Round off your answer to 3 decimal places.
 
-#2. Code --> Assessment on Statistics for Decision Making.ipynb
+### 4. Probability of 3 Rooms in Abbotsford
+- **Task**: Calculate the chances of finding a property with 3 rooms in Abbotsford. Round your answer to 3 decimal places.
+
+### 5. Probability of 2 Bathrooms in Abbotsford
+- **Task**: Calculate the chances of finding a property with 2 bathrooms in Abbotsford. Round your answer to 3 decimal places.
+
+## Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- SciPy (for statistical tests)
+- Jupyter Notebook
+
+## How to Run the Project
+1. Clone the repository from GitHub.
+   ```bash
+   git clone https://github.com/yourusername/property-analysis.git
