@@ -9,4 +9,12 @@ These problems will test you on your ability to manipulate real world data and a
 
 4. In the suburb Abbotsford, what are the chances of finding a property with 3 rooms? Round your answer to 3 decimal places. 
 
-5. In the suburb Abbotsford, what are the chances of finding a property with 2 bathrooms? Round your answer to 3 decimal places. 
+5. In the suburb Abbotsford, what are the chances of finding a property with 2 bathrooms? Round your answer to 3 decimal places.
+
+#  Tools/Software:
+Python - numpy, pandas, matplotlib, seaborn, SciPy, Plotly, Scikit-learn
+
+# Files to be uploaded in the repository:
+# 1. Dataset --> property.csv
+
+# 2. Code --> Assessment on Statistics for Decision Making.ipynb
