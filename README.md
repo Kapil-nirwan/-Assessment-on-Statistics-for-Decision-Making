@@ -15,6 +15,6 @@ These problems will test you on your ability to manipulate real world data and a
 Python - numpy, pandas, matplotlib, seaborn, SciPy, Plotly, Scikit-learn
 
 # Files to be uploaded in the repository:
-# 1. Dataset --> property.csv
+#1. Dataset --> property.csv
 
-# 2. Code --> Assessment on Statistics for Decision Making.ipynb
+#2. Code --> Assessment on Statistics for Decision Making.ipynb
